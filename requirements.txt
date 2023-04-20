@@ -1,0 +1,14 @@
+anyio
+asgiref
+certifi
+click
+Django==3.1
+gunicorn
+h11
+httpcore
+httpx
+idna
+pytz
+sniffio
+sqlparse
+uvicorn
